@@ -10,10 +10,14 @@ Este proyecto forma parte del **Trabajo Práctico 1** de la materia **Plataforma
 - **Persistencia:** Los datos se guardan en el navegador mediante `localStorage`, por lo que no se pierden al recargar.
 - **Validación:** Sistema de notificaciones (Toast) para evitar tareas duplicadas.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - **HTML5** (Estructura semántica).
 - **JavaScript** (Lógica, DOM y Eventos).
 - **Tailwind CSS** (Diseño responsivo y moderno).
 
 ---
+### DEMO del proyecto:
+https://drive.google.com/drive/folders/1AHdWxutK6HyjLvTtkJyBEsRSHa8XLG7w?usp=sharing
+
+--- 
 **Desarrollado por:** Paloma Gareis Borgiani
