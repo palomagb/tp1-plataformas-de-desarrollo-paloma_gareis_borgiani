@@ -37,7 +37,7 @@ const renderTasks = (filter = '') => {
     if (filtered.length === 0) {
         taskList.innerHTML = `
             <div class="p-10 text-center flex flex-col items-center">
-                <img src="img/logo-patita.png" alt="Sin tareas" class="h-20 w-20 mb-4 opacity-20 grayscale">
+                <img src="img/patita.png" alt="Sin tareas" class="h-20 w-20 mb-4 opacity-20 grayscale">
                 <p class="text-[#9cb49a] font-medium italic">No hay cuidados registrados por aquí.</p>
             </div>`;
         return;
