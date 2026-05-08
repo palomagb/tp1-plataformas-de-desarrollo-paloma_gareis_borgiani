@@ -16,4 +16,8 @@ Este proyecto forma parte del **Trabajo Práctico 1** de la materia **Plataforma
 - **Tailwind CSS** (Diseño responsivo y moderno).
 
 ---
+### DEMO del proyecto:
+https://drive.google.com/drive/folders/1AHdWxutK6HyjLvTtkJyBEsRSHa8XLG7w?usp=sharing
+
+--- 
 **Desarrollado por:** Paloma Gareis Borgiani
